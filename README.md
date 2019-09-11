@@ -1,5 +1,9 @@
 # WaterTreatment Facility Simulation
-The repository aims to provide a powerful framework using Unity3D to give a more realistic impression of a working Water Treatment facility. This model consists of two main parts. The front end is built using Uniy3D 2018 game engine, and to build the backend, different tools have been utilized to give the user power of communicating with OpenPLC using the Modbus protocol.
+The repository aims to provide a powerful framework using Unity3D to give a more realistic impression of a working Water Treatment facility. This model consists of two main parts. The front end is built using Uniy3D 2018 game engine, and to build the backend, different tools have been utilized to give the user power of communicating with OpenPLC using the Modbus protocol. The system simulator will be as below:
+
+![Image of Main Page](https://github.com/ghiasirad/watertreatment/blob/master/Builds/Embeded/WT_MainPage.png)
+
+![Image of Operation](https://github.com/ghiasirad/watertreatment/blob/master/Builds/Embeded/WT_Operation.png)
 
 ## Build from scratch
 1. To build, you will need three different machines along with the host. Please download the latest version of VirtualBox by https://www.virtualbox.org. Different hosts will be able to run the Unity3D simulator based on the platform. The /Sim/Builds/ folder contains three different games for Linux, Mac, and Windows. Please use the one based on your preference.
